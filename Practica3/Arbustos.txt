@@ -1,0 +1,5 @@
+NOM PLANTA ARBUSTIVA; ABSORCIÓ DE CO2 A PARTIR DEL 5È ANY; VIDA ÚTIL;
+Corylus Avellana;110;120;
+Spartium junceum;85;100;
+Erica multiflora;50;90;
+Genista scorpius;100;115;

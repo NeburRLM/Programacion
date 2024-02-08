@@ -1,0 +1,13 @@
+Finca les pedres;2018;0;CalcariSolana;2.18;
+Finca les pedres;2018;1;CalcariObaga;0.97;
+Finca les pedres;2018;2;CalcariSolana;1.5;
+Finca les pedres;2018;3;ArgilaSolana;5.9;
+Finca les pedres;2018;4;CalcariSolana;12.5;
+Els trossos;2015;0;CalcariSolana;5.4;
+Els trossos;2015;1;ArgilaSolana;12;
+Els trossos;2015;2;CalcariObaga;8.5;
+Els trossos;2015;3;ArgilaSolana;4.7;
+Els trossos;2015;4;CalcariSolana;13;
+Els trossos;2015;5;CalcariObaga;8.75;
+Els trossos;2015;6;CalcariSolana;24;
+

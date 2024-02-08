@@ -1,0 +1,11 @@
+NOM TIPUS DE TERRENY;NOM PLANTA;UNITATS PLANTADES PER HRA
+CalcariSolana;Pinus sylvestris;150;
+CalcariSolana;Pinus nigra;130;
+CalcariSolana;Fraxinus excelsior;220;
+CalcariSolana;Acer pseudoplatanus;210;
+CalcariSolana;Populus nigra;190;
+CalcariObaga;Pinus sylvestris;190;
+CalcariObaga;Corylus Avellana;200;
+CalcariObaga;Spartium junceum;150;
+CalcariObaga;Quercus ilex;200;
+CalcariObaga;Betula alba;160;
